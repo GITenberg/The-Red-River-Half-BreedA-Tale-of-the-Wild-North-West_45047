@@ -1,0 +1,52 @@
+_repo: The-Red-River-Half-BreedA-Tale-of-the-Wild-North-West_45047
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Williams, Henry Llewellyn
+    aliases:
+    - Williams, H. L. (Henry Llewellyn)
+    - Mizen, Mat
+    - Williams, Llew
+    - Mizzen, Matt
+    birthdate: 1842
+    gutenberg_agent_id: '2433'
+    url: http://www.gutenberg.org/2009/agents/2433
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gustave_Aimard
+    - http://fr.wikipedia.org/wiki/Gustave_Aimard
+  editor:
+    agent_name: St. John, Percy B. (Percy Bolingbroke)
+    aliases:
+    - Saint John, Percy B. (Percy Bolingbroke)
+    - John, Percy B. St. (Percy Bolingbroke St.)
+    - Boone, Henry L.
+    birthdate: 1821
+    deathdate: 1889
+    gutenberg_agent_id: '42430'
+    url: http://www.gutenberg.org/2009/agents/42430
+description: ''
+gutenberg_issued: '2014-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: 'The Red River Half-Breed: A Tale of the Wild North-West'
+url: http://www.gutenberg.org/ebooks/45047
